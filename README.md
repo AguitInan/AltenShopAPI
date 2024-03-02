@@ -40,3 +40,15 @@ dotnet ef database update
 ### Lancement de l'API
 
 Lancez l'API en sélectionnant le profil ProductAPI dans launchSettings.json. Visitez ensuite https://localhost:7181/swagger/index.html pour tester l'API via Swagger.
+
+### Test avec le Front Angular
+
+Installer nodeJS
+L'archive alten-shop-back-products(API-Version).rar contient une version adaptée à cette API.
+Dézipper l'archive alten-shop-back-products(API-Version).rar
+Se rendre dans le dossier front puis ouvrir l'invite de commande Windows ou Powershell et effectuer les commandes suivantes :
+
+npm install
+ng serve
+
+Après avoir lancé l'API, se rendre à l'adresse suivante pour utiliser l'application front Angular : http://localhost:4200/products
