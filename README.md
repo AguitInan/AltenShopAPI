@@ -45,8 +45,8 @@ Lancez l'API en sélectionnant le profil ProductAPI dans launchSettings.json. Vi
 
 Installer Node.js.
 
-L'archive alten-shop-back-products(API-Version).rar contient une version adaptée à cette API.
-Dézipper l'archive alten-shop-back-products(API-Version).rar.
+L'archive shop-back-products(API-Version).rar contient une version adaptée à cette API.
+Dézipper l'archive shop-back-products(API-Version).rar.
 
 Se rendre dans le dossier front, puis ouvrir l'invite de commandes Windows ou PowerShell et effectuer les commandes suivantes :
 
