@@ -26,7 +26,7 @@ git clone https://github.com/AguitInan/AltenShopAPI.git
 ```
 
 Naviguez ensuite dans le dossier AltenShopAPI et ouvrez AltenShopAPI.sln avec Visual Studio 2022.
-La chaîne de connexion se trouve dans le fichier appsettings.json qui se trouve dans le dossier ProductAPI.
+La chaîne de connexion se trouve dans le fichier appsettings.json qui se situe dans le dossier ProductAPI.
 
 ### Migration de la base de données
 
@@ -55,4 +55,4 @@ npm install
 ng serve
 ```
 
-Après avoir lancé l'API, se rendre à l'adresse suivante pour utiliser l'application front Angular : http://localhost:4200/products.
+Après avoir lancé l'API, se rendre à l'adresse suivante pour utiliser l'application front Angular : http://localhost:4200
